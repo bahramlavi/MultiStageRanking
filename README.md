@@ -1,8 +1,6 @@
 %%%%%%%%%%%%
 % (c) Copyright 2015-2016 PRA Lab - Pattern Recognitions and Applications Lab,
 % University of Cagliari. Bahram Lavi <lavi.bahram@diee.unica.it>
-% Source code is available at:
-% 
 %%%%%%%%%%%%%
 
 * Introduction:
