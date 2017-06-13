@@ -4,7 +4,7 @@ University of Cagliari. Bahram Lavi <lavi.bahram@diee.unica.it>
 
 * Introduction:
 
-This code is this directory provides the implementation of the multi-stage 
+This code provides the implementation of the multi-stage 
 ranking system from our paper 'A Multi-Stage Ranking Approach for Fast 
 Person Re-Identification'. This code implements *only* the multi-stage system
 and not features extraction and neither obtaining the simplified versions
